@@ -1,0 +1,8 @@
+[tool.black]
+line-length = 120
+
+[tool.pytest.ini_options]
+log_cli = 1
+
+[tool.isort]
+profile = "black" 
