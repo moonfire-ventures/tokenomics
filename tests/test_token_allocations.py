@@ -1,6 +1,6 @@
 import numpy as np
 
-from moonfire_tokenomics.analysis import tokens_to_df
+from moonfire_tokenomics.make_dataset import tokens_to_df
 from moonfire_tokenomics.tokens import Tokens
 from moonfire_tokenomics.types import CommonType, Sector
 

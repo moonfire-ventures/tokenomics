@@ -1,21 +1,9 @@
-from typing import List
-
 import matplotlib.pyplot as plt
-import pandas as pd
 import seaborn as sns
 from matplotlib.ticker import PercentFormatter
 
+from moonfire_tokenomics.make_dataset import tokens_to_df
 from moonfire_tokenomics.tokens import Tokens
-from moonfire_tokenomics.types import Token
-
-
-def tokens_to_df(tokens: List[Token]) -> pd.DataFrame:
-    df = pd.DataFrame(tokens).explode("allocations").explode("sources")
-    df = pd.concat([df.drop(["allocations"], axis=1), df["allocations"].apply(pd.Series)], axis=1)
-    df = df.explode("records")
-    df = pd.concat([df.drop(["records"], axis=1), df["records"].apply(pd.Series)], axis=1)
-    return df
-
 
 rename_dict = {
     "advisors": "Advisors",

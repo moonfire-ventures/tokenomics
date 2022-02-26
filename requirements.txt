@@ -1,5 +1,7 @@
 dataclasses==0.6
 dataclasses-json==0.5.6
+flake8==4.0.1
+isort==5.10.1
 matplotlib==3.5.1
 mypy==0.931
 pandas==1.4.0
