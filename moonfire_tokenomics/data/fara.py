@@ -31,4 +31,5 @@ fara = Token(
     sources=[
         "https://faraland.io/static/media/whitepaper.e2c95a2c.pdf",
     ],
+    year=2021,
 )

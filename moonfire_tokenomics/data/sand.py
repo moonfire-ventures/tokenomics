@@ -37,4 +37,5 @@ sand = Token(
         "https://research.binance.com/en/projects/the-sandbox",
         "https://cryptobulls.info/what-is-the-sandbox-metaverse-nft-game#What_is_the_Metaverse_SAND_revenue_model",
     ],
+    year=2020,
 )

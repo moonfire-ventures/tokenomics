@@ -24,4 +24,5 @@ mana = Token(
     sources=[
         "https://medium.com/decentraland/the-decentraland-token-sale-terms-81861704c086",
     ],
+    year=2017,
 )

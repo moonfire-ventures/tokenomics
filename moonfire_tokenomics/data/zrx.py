@@ -7,7 +7,7 @@ from moonfire_tokenomics.types import (
 )
 
 zrx = Token(
-    token="ZX",
+    token="ZRX",
     project="0x",
     sector=Sector.DEFI,
     allocations=[
@@ -25,4 +25,5 @@ zrx = Token(
     sources=[
         "https://blog.0xproject.com/announcing-the-0x-token-zrx-launch-d4c097d893c7",
     ],
+    year=2017,
 )

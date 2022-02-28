@@ -26,4 +26,5 @@ badger = Token(
     sources=[
         "https://badgerdao.medium.com/badger-dao-liquidity-mining-launch-b2415301bd31",
     ],
+    year=2020,
 )

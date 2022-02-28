@@ -30,4 +30,5 @@ link = Token(
     sources=[
         "https://messari.io/asset/chainlink/profile/supply-schedule",
     ],
+    year=2017,
 )

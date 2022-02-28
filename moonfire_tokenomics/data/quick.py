@@ -8,7 +8,7 @@ from moonfire_tokenomics.types import (
 
 quick = Token(
     token="QUICK",
-    project="Squickswap",
+    project="Quickswap",
     sector=Sector.DEFI,
     allocations=[
         Allocation(
@@ -33,4 +33,5 @@ quick = Token(
     sources=[
         "https://quickswap-layer2.medium.com/quick-tokenomics-liquidity-mining-details-96-75-distributed-to-the-community-3dbffd6ba214",  # noqa
     ],
+    year=2021,
 )

@@ -8,7 +8,7 @@ from moonfire_tokenomics.types import (
 
 meta = Token(
     token="META",
-    project="Metaverseminer",
+    project="Metaverse Miner",
     sector=Sector.GAMING,
     allocations=[
         Allocation(
@@ -25,4 +25,5 @@ meta = Token(
     sources=[
         "https://metaverseminer.medium.com/metaverse-miner-the-hottest-nft-game-3573b853a346",
     ],
+    year=2021,
 )

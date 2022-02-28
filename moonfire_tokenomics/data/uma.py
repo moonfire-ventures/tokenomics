@@ -25,4 +25,5 @@ uma = Token(
     sources=[
         "https://dyor-crypto.fandom.com/wiki/UMA_(UMA)#Token_allocation",
     ],
+    year=2018,
 )

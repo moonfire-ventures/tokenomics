@@ -29,4 +29,5 @@ elfin = Token(
     sources=[
         "https://medium.com/@elfinkingdom/understanding-elfins-token-metrics-5548d16bf273",
     ],
+    year=2021,
 )

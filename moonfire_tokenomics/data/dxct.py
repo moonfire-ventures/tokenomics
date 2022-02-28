@@ -27,4 +27,5 @@ dxct = Token(
     sources=[
         "https://dnaxcat.io/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website",
     ],
+    year=2021,
 )

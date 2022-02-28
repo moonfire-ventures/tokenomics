@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from enum import Enum
-from typing import List
+from typing import List, Optional
 
 from dataclasses_json import DataClassJsonMixin
 
@@ -54,3 +54,4 @@ class Token(DataClassJsonMixin):
     sector: Sector
     allocations: List[Allocation]
     sources: List[str]
+    year: Optional[int] = None

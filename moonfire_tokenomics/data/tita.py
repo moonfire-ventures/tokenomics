@@ -27,4 +27,5 @@ tita = Token(
     sources=[
         "https://whitepaper.titanhunters.io/game-economy/tokenomic",
     ],
+    year=2021,
 )

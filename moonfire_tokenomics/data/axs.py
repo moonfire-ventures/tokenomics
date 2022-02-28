@@ -38,4 +38,5 @@ axs = Token(
     sources=[
         "https://whitepaper.axieinfinity.com/axs/allocations-and-unlock",
     ],
+    year=2020,
 )

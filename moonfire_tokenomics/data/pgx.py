@@ -27,4 +27,5 @@ pgx = Token(
     sources=[
         "https://whitepaper.pegaxy.io/in-game-economic-model/governance-token-pgx/pgx-token-allocation-and-unlock-schedule",  # noqa
     ],
+    year=2021,
 )

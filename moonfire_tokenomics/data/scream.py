@@ -27,4 +27,5 @@ scream = Token(
     sources=[
         "https://docs.scream.sh/resources/tokenomics",
     ],
+    year=2021,
 )

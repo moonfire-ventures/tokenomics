@@ -26,4 +26,5 @@ bnx = Token(
     sources=[
         "https://morioh.com/p/906f862b586c",
     ],
+    year=2021,
 )

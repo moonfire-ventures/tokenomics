@@ -27,4 +27,5 @@ isky = Token(
     sources=[
         "https://infinityskies.io/whitepaper.pdf",
     ],
+    year=2022,
 )

@@ -26,4 +26,5 @@ bcmc = Token(
     sources=[
         "https://bcmhunt.com/howtoplay",
     ],
+    year=2021,
 )

@@ -21,4 +21,5 @@ yfi = Token(
     sources=[
         "https://www.gemini.com/cryptopedia/what-is-yearn-finance-yfi-coin-yearnfinance#section-what-is-yearn-finance",
     ],
+    year=2020,
 )

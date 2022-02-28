@@ -24,4 +24,5 @@ ren = Token(
     sources=[
         "https://medium.com/@JamesTodaro/republic-protocol-analysis-and-valuation-7ebef4b3c4f9",
     ],
+    year=2017,
 )

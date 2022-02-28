@@ -26,4 +26,5 @@ ampl = Token(
     sources=[
         "https://blog.ampleforth.org/ampleforth-ieo-and-token-distribution-transparency-report-d7b632bbc838",
     ],
+    year=2019,
 )

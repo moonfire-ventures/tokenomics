@@ -27,4 +27,5 @@ ray = Token(
         "https://insights.glassnode.com/uni-token-is-uniswap-really-decentralized/",
         "https://uniswap.org/blog/uni",
     ],
+    year=2021,
 )

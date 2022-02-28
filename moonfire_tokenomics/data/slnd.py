@@ -26,4 +26,5 @@ slnd = Token(
     sources=[
         "https://docs.solend.fi/protocol/token",
     ],
+    year=2021,
 )

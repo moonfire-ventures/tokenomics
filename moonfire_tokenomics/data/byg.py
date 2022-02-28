@@ -33,4 +33,5 @@ byg = Token(
     sources=[
         "https://www.blackeyegalaxy.space/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website",
     ],
+    year=2021,
 )

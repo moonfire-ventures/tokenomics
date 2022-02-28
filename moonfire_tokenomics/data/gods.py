@@ -26,4 +26,5 @@ gods = Token(
     sources=[
         "https://images.godsunchained.com/misc/whitepaper.pdf",
     ],
+    year=2021,
 )

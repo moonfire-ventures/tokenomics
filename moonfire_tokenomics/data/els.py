@@ -27,4 +27,5 @@ els = Token(
     sources=[
         "https://whitepaper.ethlas.com/section-4-tokenomics/usdels-distribution",
     ],
+    year=2021,
 )

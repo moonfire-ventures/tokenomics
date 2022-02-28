@@ -28,4 +28,5 @@ bnt = Token(
     sources=[
         "https://bancor.medium.com/bancor-network-token-bnt-contribution-token-creation-terms-48cc85a63812",
     ],
+    year=2017,
 )

@@ -27,4 +27,5 @@ ilv = Token(
     sources=[
         "https://docs.illuvium.io/whitepaper/tokenomics/",
     ],
+    year=2021,
 )

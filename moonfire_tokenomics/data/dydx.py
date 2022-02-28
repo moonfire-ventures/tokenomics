@@ -36,4 +36,5 @@ dydx = Token(
     sources=[
         "https://coin98insights.com/what-is-dydx",
     ],
+    year=2020,
 )

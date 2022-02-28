@@ -29,4 +29,5 @@ ngl = Token(
     sources=[
         "https://daomaker.com/company/gold-fever#token-economics",
     ],
+    year=2021,
 )

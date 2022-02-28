@@ -33,4 +33,5 @@ mir = Token(
     sources=[
         "https://docs.mirror.finance/protocol/mirror-token-mir#:~:text=MIR%20will%20be%20distributed%20every,for%20the%20staking%20reward%20distribution.",  # noqa
     ],
+    year=2020,
 )
