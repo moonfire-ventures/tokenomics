@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 tower = Token(
-    token="TOWER",
+    name="TOWER",
     project="Crazy Defense Heroes",
     sector=Sector.GAMING,
     allocations=[

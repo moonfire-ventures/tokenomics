@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 mir = Token(
-    token="MIR",
+    name="MIR",
     project="Mirror Protocol",
     sector=Sector.DEFI,
     allocations=[

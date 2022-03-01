@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 byg = Token(
-    token="BYG",
+    name="BYG",
     project="Black Eye Galaxy",
     sector=Sector.GAMING,
     allocations=[

@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 he = Token(
-    token="HE",
+    name="HE",
     project="Heroes & Empires",
     sector=Sector.GAMING,
     allocations=[

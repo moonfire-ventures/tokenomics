@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 tita = Token(
-    token="TITA",
+    name="TITA",
     project="Titan Hunters",
     sector=Sector.GAMING,
     allocations=[

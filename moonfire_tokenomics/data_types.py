@@ -49,7 +49,7 @@ class Allocation(DataClassJsonMixin):
 
 @dataclass
 class Token(DataClassJsonMixin):
-    token: str
+    name: str
     project: str
     sector: Sector
     allocations: List[Allocation]

@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 gem = Token(
-    token="GEM",
+    name="GEM",
     project="Guild of Guardians",
     sector=Sector.GAMING,
     allocations=[

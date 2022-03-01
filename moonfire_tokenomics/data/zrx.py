@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 zrx = Token(
-    token="ZRX",
+    name="ZRX",
     project="0x",
     sector=Sector.DEFI,
     allocations=[

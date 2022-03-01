@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 lrc = Token(
-    token="LRC",
+    name="LRC",
     project="Loopring",
     sector=Sector.DEFI,
     allocations=[

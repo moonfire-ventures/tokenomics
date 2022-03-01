@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 fara = Token(
-    token="FARA",
+    name="FARA",
     project="Faraland Crystal",
     sector=Sector.GAMING,
     allocations=[

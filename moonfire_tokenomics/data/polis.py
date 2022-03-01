@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 polis = Token(
-    token="POLIS",
+    name="POLIS",
     project="Star Atlas",
     sector=Sector.GAMING,
     allocations=[

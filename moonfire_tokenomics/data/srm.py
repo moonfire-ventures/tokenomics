@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 srm = Token(
-    token="SRM",
+    name="SRM",
     project="Serum",
     sector=Sector.DEFI,
     allocations=[

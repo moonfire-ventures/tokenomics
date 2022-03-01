@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 dodo = Token(
-    token="DODO",
+    name="DODO",
     project="DODO",
     sector=Sector.DEFI,
     allocations=[

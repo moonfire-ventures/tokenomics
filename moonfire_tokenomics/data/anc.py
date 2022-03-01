@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 anc = Token(
-    token="ANC",
+    name="ANC",
     project="Anchor Protocol",
     sector=Sector.DEFI,
     allocations=[

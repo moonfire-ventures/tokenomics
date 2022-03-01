@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 axs = Token(
-    token="AXS",
+    name="AXS",
     project="Axie Infinity",
     sector=Sector.GAMING,
     allocations=[

@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 isky = Token(
-    token="ISKY",
+    name="ISKY",
     project="Infinity Skies",
     sector=Sector.DEFI,
     allocations=[

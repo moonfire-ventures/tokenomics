@@ -18,8 +18,12 @@ rename_dict = {
 if __name__ == "__main__":
     data = [token[1] for token in Tokens.choices()]
     df = tokens_to_df(data)
-    df = df.sort_values(["token", "month"]).drop_duplicates(["token", "type"], keep="last")
-    df_grouped = df.groupby(["sector", "token", "common_type"])["share"].sum()
+    df = df.sort_values(["name", "month"]).drop_duplicates(["name", "type"], keep="last")
+    df_yearly = df.drop_duplicates(["year", "name"]).groupby(["year", "sector"])["share"].count().unstack().fillna(0)
+    df_yearly.plot.bar(stacked=True, color=["m", "g"])
+    plt.show()
+
+    df_grouped = df.groupby(["sector", "name", "common_type"])["share"].sum()
     df_grouped.unstack().groupby(["sector"]).describe()
 
     display_df = df_grouped.unstack().fillna(0).stack().reset_index()

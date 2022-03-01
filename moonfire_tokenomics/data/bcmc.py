@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 bcmc = Token(
-    token="BCMC",
+    name="BCMC",
     project="Blockchain Monster Hunt",
     sector=Sector.GAMING,
     allocations=[

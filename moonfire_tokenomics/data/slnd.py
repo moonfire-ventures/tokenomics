@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 slnd = Token(
-    token="SLEND",
+    name="SLEND",
     project="Solend",
     sector=Sector.DEFI,
     allocations=[

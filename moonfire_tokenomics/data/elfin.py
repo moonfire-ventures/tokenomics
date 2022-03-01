@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 elfin = Token(
-    token="ELFIN",
+    name="ELFIN",
     project="Elfin Kingdom",
     sector=Sector.GAMING,
     allocations=[

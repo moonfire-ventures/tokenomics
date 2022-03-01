@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 aot = Token(
-    token="AOT",
+    name="AOT",
     project="Age of Tanks",
     sector=Sector.GAMING,
     allocations=[

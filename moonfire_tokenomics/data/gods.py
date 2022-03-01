@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 gods = Token(
-    token="GODS",
+    name="GODS",
     project="Gods unchained",
     sector=Sector.GAMING,
     allocations=[
