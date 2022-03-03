@@ -2,7 +2,7 @@
 
 This repository contains the code for cryptoeconomics research into the distribution of tokenomics models across several ecosystems that leverage utility and governance tokens for various objectives.
 
-# Contribution guidelines
+# Data Contribution guidelines
 
 There are currently 2 ways to contribute. You can
 1. take matters in your own hands and create a PR (see below); or 
