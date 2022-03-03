@@ -23,4 +23,5 @@ he = Token(
     sources=[
         "https://support.heroesempires.com/hc/en-us/articles/4408399327385-Tokenomics",
     ],
+    year=2021,
 )

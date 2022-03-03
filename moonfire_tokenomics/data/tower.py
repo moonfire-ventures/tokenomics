@@ -20,4 +20,5 @@ tower = Token(
     sources=[
         "https://wiki.rugdoc.io/docs/introduction-to-crazy-defense-heroes/",
     ],
+    year=2021,
 )

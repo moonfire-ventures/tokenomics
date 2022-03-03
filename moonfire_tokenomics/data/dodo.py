@@ -23,4 +23,5 @@ dodo = Token(
     sources=[
         "https://blog.dodoex.io/announcing-the-dodo-token-and-initial-dodo-offering-f31b0beb7463",
     ],
+    year=2020,
 )

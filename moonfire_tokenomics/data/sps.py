@@ -21,4 +21,5 @@ sps = Token(
     sources=[
         "https://sps.splinterlands.com/distribution",
     ],
+    year=2021,
 )

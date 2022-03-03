@@ -21,4 +21,5 @@ chz = Token(
     sources=[
         "https://www.chiliz.com/en/token-details/",
     ],
+    year=2018,
 )

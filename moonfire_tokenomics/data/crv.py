@@ -46,4 +46,5 @@ crv = Token(
     sources=[
         "https://resources.curve.fi/base-features/understanding-tokenomics",
     ],
+    year=2020,
 )

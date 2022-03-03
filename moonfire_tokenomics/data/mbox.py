@@ -18,4 +18,5 @@ mbox = Token(
     sources=[
         "https://research.binance.com/en/projects/mobox",
     ],
+    year=2021,
 )

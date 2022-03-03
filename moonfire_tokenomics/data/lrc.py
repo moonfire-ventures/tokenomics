@@ -20,4 +20,5 @@ lrc = Token(
     sources=[
         "https://coin98insights.com/loopring-lrc",
     ],
+    year=2017,
 )

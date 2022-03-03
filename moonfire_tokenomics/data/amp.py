@@ -19,4 +19,5 @@ amp = Token(
     sources=[
         "https://medium.com/flexa/introducing-flexacoin-b4c8099e3a91",
     ],
+    year=2020,
 )

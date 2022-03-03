@@ -28,4 +28,5 @@ anc = Token(
     sources=[
         "https://docs.anchorprotocol.com/protocol/anchor-token-anc",
     ],
+    year=2021,
 )

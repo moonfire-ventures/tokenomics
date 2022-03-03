@@ -27,4 +27,5 @@ atlas = Token(
     sources=[
         "https://staratlas.com/economics-paper.pdf",
     ],
+    year=2021,
 )

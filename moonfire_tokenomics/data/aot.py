@@ -25,4 +25,5 @@ aot = Token(
     sources=[
         "https://ageoftanks.io/tokenomics/",
     ],
+    year=2021,
 )

@@ -20,4 +20,5 @@ pols = Token(
     sources=[
         "https://docs.polkastarter.com/01.-what-is-polkastarter/what-are-the-tokenomics",
     ],
+    year=2020,
 )

@@ -23,4 +23,5 @@ gmee = Token(
     sources=[
         "https://lightpaper.gamee.com/gmee-token/token-allocation",
     ],
+    year=2021,
 )

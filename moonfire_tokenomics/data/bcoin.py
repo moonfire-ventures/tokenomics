@@ -24,4 +24,5 @@ bcoin = Token(
     sources=[
         "https://whitepaper.bombcrypto.io/token-allocation",
     ],
+    year=2021,
 )

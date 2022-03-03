@@ -27,4 +27,5 @@ revv = Token(
     sources=[
         "https://revvmotorsport.com/",
     ],
+    year=2020,
 )

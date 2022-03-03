@@ -17,4 +17,5 @@ spell = Token(
     sources=[
         "https://docs.abracadabra.money/tokens/tokenomics",
     ],
+    year=2021,
 )

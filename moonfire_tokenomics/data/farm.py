@@ -17,4 +17,5 @@ farm = Token(
     sources=[
         "https://harvest-finance.gitbook.io/harvest-finance/general-info/what-do-we-do/profit-share-pool-and-farm-tokenomics",  # noqa
     ],
+    year=2020,
 )

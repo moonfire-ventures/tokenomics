@@ -19,4 +19,5 @@ srm = Token(
     sources=[
         "https://www.projectserum.com/serum-token-summary",
     ],
+    year=2020,
 )

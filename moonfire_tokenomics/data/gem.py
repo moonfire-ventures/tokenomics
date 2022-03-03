@@ -20,4 +20,5 @@ gem = Token(
     sources=[
         "https://whitepaper.guildofguardians.com/guild-of-guardian-gems/distribution-schedule",
     ],
+    year=2021,
 )

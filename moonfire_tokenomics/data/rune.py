@@ -21,4 +21,5 @@ rune = Token(
     sources=[
         "https://medium.com/thorchain/reduction-in-rune-total-supply-a8913adace82",
     ],
+    year=2019,
 )

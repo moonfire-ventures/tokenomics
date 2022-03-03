@@ -20,4 +20,5 @@ admc = Token(
     sources=[
         "https://www.adamantcoin.com/_files/ugd/fe5faa_7f6fb26dc5784085a0e638d7b4acae65.pdf",
     ],
+    year=2021,
 )

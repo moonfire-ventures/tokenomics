@@ -20,4 +20,5 @@ i1nch = Token(
     sources=[
         "https://blog.1inch.io/1inch-token-and-liquidity-mining-announcement-5a75bad40ded",
     ],
+    year=2020,
 )
