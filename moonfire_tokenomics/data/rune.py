@@ -1,10 +1,4 @@
-from moonfire_tokenomics.types import (
-    Allocation,
-    AllocationRecord,
-    CommonType,
-    Sector,
-    Token,
-)
+from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 rune = Token(
     token="RUNE",
