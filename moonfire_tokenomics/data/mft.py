@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 mft = Token(
-    token="MFT",
+    name="MFT",
     project="Mainframe",
     sector=Sector.DEFI,
     allocations=[

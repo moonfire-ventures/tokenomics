@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 els = Token(
-    token="ELS",
+    name="ELS",
     project="Ethlas",
     sector=Sector.GAMING,
     allocations=[

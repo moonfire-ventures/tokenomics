@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 ngl = Token(
-    token="NGL",
+    name="NGL",
     project="Gold Fever",
     sector=Sector.GAMING,
     allocations=[

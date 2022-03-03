@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 dxct = Token(
-    token="DXCT",
+    name="DXCT",
     project="DNAxCAT",
     sector=Sector.GAMING,
     allocations=[

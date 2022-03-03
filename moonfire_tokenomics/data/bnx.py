@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 bnx = Token(
-    token="BNX",
+    name="BNX",
     project="BinaryX",
     sector=Sector.GAMING,
     allocations=[

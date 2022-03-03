@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 pgx = Token(
-    token="PGX",
+    name="PGX",
     project="Pegaxy",
     sector=Sector.GAMING,
     allocations=[

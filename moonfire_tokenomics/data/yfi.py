@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 yfi = Token(
-    token="YFI",
+    name="YFI",
     project="yearn.finance",
     sector=Sector.DEFI,
     allocations=[

@@ -4,8 +4,8 @@ from typing import List
 
 import pandas as pd
 
+from moonfire_tokenomics.data_types import Token
 from moonfire_tokenomics.tokens import Tokens
-from moonfire_tokenomics.types import Token
 
 
 def tokens_to_df(tokens: List[Token]) -> pd.DataFrame:

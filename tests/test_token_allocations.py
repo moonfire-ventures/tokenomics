@@ -1,8 +1,8 @@
 import numpy as np
 
+from moonfire_tokenomics.data_types import CommonType, Sector
 from moonfire_tokenomics.make_dataset import tokens_to_df
 from moonfire_tokenomics.tokens import Tokens
-from moonfire_tokenomics.types import CommonType, Sector
 
 
 def test_token_allocations():

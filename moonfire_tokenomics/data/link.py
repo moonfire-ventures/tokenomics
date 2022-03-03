@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 link = Token(
-    token="LINK",
+    name="LINK",
     project="Chainlink",
     sector=Sector.DEFI,
     allocations=[

@@ -1,7 +1,7 @@
-from moonfire_tokenomics.types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
 
 farm = Token(
-    token="FARM",
+    name="FARM",
     project="Harvest Finance",
     sector=Sector.DEFI,
     allocations=[
