@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 mir = Token(
     name="MIR",
     project="Mirror Protocol",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.BSC, Blockchain.TERRA],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

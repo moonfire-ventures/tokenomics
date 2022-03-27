@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 sps = Token(
     name="SPS",
     project="Splinterlands",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.BSC],
+    category=[Category.GOV, Category.DIVIDEND],
+    capped=True,
     allocations=[
         Allocation(
             month=65,

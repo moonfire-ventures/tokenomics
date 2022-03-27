@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 crv = Token(
     name="CRV",
     project="Curve Finance",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.FTM, Blockchain.POLY, Blockchain.SORA],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

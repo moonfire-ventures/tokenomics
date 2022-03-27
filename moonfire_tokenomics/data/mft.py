@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 mft = Token(
     name="MFT",
     project="Mainframe",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,
@@ -18,7 +21,7 @@ mft = Token(
         ),
     ],
     sources=[
-        "https://medium.com/flexa/introducing-flexacoin-b4c8099e3a91",
+        "https://hifi.finance/Mainframe-Whitepaper.pdf",
     ],
     year=2018,
 )

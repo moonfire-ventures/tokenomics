@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 band = Token(
     name="BAND",
     project="Band Protocol",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.FTM],
+    category=[Category.GOV, Category.PAYMENT, Category.DIVIDEND, Category.ACCESS],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

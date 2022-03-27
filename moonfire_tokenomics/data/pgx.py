@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 pgx = Token(
     name="PGX",
     project="Pegaxy",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.ETH, Blockchain.POLY],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

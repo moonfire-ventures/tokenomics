@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 bnt = Token(
     name="BNT",
     project="BANCOR",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH],
+    category=[Category.PAYMENT],
+    capped=False,
     allocations=[
         Allocation(
             month=0,

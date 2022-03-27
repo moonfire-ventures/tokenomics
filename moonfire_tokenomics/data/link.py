@@ -1,9 +1,21 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 link = Token(
     name="LINK",
     project="Chainlink",
     sector=Sector.DEFI,
+    blockchain=[
+        Blockchain.ETH,
+        Blockchain.AVAX,
+        Blockchain.BSC,
+        Blockchain.FTM,
+        Blockchain.ONE,
+        Blockchain.POLY,
+        Blockchain.SORA,
+        Blockchain.GC,
+    ],
+    category=[Category.PAYMENT],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

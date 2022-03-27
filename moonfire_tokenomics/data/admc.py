@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 admc = Token(
     name="ADMC",
     project="Adamant Mine",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.BSC],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

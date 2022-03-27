@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 dodo = Token(
     name="DODO",
     project="DODO",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.BSC, Blockchain.POLY],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=24,

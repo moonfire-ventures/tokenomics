@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 ngl = Token(
     name="NGL",
     project="Gold Fever",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.ETH],
+    category=[Category.PAYMENT],
+    capped=False,
     allocations=[
         Allocation(
             month=36,

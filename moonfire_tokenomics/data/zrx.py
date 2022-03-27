@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 zrx = Token(
     name="ZRX",
     project="0x",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.ONE, Blockchain.AVAX],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

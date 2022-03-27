@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 uma = Token(
     name="UMA",
     project="Universal Market Access",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.SORA, Blockchain.ETH, Blockchain.AVAX],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=48,

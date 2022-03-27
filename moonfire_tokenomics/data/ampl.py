@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 ampl = Token(
-    name="AMPLE",
+    name="AMPL",
     project="Ampleforth",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.AVAX, Blockchain.BSC, Blockchain.ONE],
+    category=[Category.PAYMENT],
+    capped=False,
     allocations=[
         Allocation(
             month=46,

@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 polis = Token(
     name="POLIS",
     project="Star Atlas",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.SOL],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,
