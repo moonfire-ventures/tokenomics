@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 byn = Token(
     name="BYN",
     project="Beyond Finance",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.POLY],
+    category=[Category.DIVIDEND, Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

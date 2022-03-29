@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 spell = Token(
     name="SPELL",
     project="Abracadabra",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.FTM, Blockchain.AVAX, Blockchain.ETH],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

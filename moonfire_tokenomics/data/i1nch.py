@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 i1nch = Token(
     name="1INCH",
     project="1INCH",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.BSC, Blockchain.ETH, Blockchain.POLY, Blockchain.AVAX, Blockchain.ONE],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=48,

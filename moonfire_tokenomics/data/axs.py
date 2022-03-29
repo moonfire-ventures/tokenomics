@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 axs = Token(
     name="AXS",
     project="Axie Infinity",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.ETH, Blockchain.BSC, Blockchain.ONE, Blockchain.RONIN],
+    category=[Category.GOV, Category.PAYMENT],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 isky = Token(
     name="ISKY",
     project="Infinity Skies",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH],
+    category=[Category.PAYMENT],
+    capped=True,
     allocations=[
         Allocation(
             month=60,

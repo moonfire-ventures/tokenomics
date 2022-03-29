@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 bag = Token(
     name="BAG",
     project="Bond Appetit",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 srm = Token(
     name="SRM",
     project="Serum",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.SOL, Blockchain.TOMO, Blockchain.ETH],
+    category=[Category.GOV, Category.DIVIDEND],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

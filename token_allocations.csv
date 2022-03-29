@@ -1,409 +1,455 @@
-token,project,sector,month,type,common_type,share
-UNI,Uniswap,defi,0,Airdrop,airdrop,0.15
-UNI,Uniswap,defi,0,Liquidity Mining,ecosystem incentives,0.02
-UNI,Uniswap,defi,0,Airdrop,airdrop,0.15
-UNI,Uniswap,defi,0,Liquidity Mining,ecosystem incentives,0.02
-UNI,Uniswap,defi,48,Airdrop,airdrop,0.15
-UNI,Uniswap,defi,48,Liquidity Mining,ecosystem incentives,0.02
-UNI,Uniswap,defi,48,Governance Treasury,treasury,0.43
-UNI,Uniswap,defi,48,Team,team,0.2151
-UNI,Uniswap,defi,48,Investors,investors,0.178
-UNI,Uniswap,defi,48,Advisors,advisors,0.0069
-UNI,Uniswap,defi,48,Airdrop,airdrop,0.15
-UNI,Uniswap,defi,48,Liquidity Mining,ecosystem incentives,0.02
-UNI,Uniswap,defi,48,Governance Treasury,treasury,0.43
-UNI,Uniswap,defi,48,Team,team,0.2151
-UNI,Uniswap,defi,48,Investors,investors,0.178
-UNI,Uniswap,defi,48,Advisors,advisors,0.0069
-1INCH,1INCH,defi,48,"security of network, maintenance",treasury,0.3
-1INCH,1INCH,defi,48,Team,team,0.225
-1INCH,1INCH,defi,48,Ecosystem growth,ecosystem incentives,0.21
-1INCH,1INCH,defi,48,Investors,investors,0.195
-1INCH,1INCH,defi,48,Advisors,advisors,0.05
-1INCH,1INCH,defi,48,Early LPs,airdrop,0.02
-LINK,Chainlink,defi,0,Public Token Sale,public sale,0.35
-LINK,Chainlink,defi,0,Team,team,0.3
-LINK,Chainlink,defi,30,Public Token Sale,public sale,0.35
-LINK,Chainlink,defi,30,Team,team,0.3
-LINK,Chainlink,defi,30,Node Operators & Ecosystem,ecosystem incentives,0.35
-RAY,Raydium,defi,36,Mining Reserve,ecosystem incentives,0.34
-RAY,Raydium,defi,36,Partnership & Ecosystem,ecosystem incentives,0.3
-RAY,Raydium,defi,36,Team,team,0.2
-RAY,Raydium,defi,36,Liquidity for AMM at Launch,ecosystem incentives,0.08
-RAY,Raydium,defi,36,Community & Seed funding,public sale,0.06
-RAY,Raydium,defi,36,Advisors,advisors,0.02
-RAY,Raydium,defi,36,Mining Reserve,ecosystem incentives,0.34
-RAY,Raydium,defi,36,Partnership & Ecosystem,ecosystem incentives,0.3
-RAY,Raydium,defi,36,Team,team,0.2
-RAY,Raydium,defi,36,Liquidity for AMM at Launch,ecosystem incentives,0.08
-RAY,Raydium,defi,36,Community & Seed funding,public sale,0.06
-RAY,Raydium,defi,36,Advisors,advisors,0.02
-SLEND,Solend,defi,36,Seed,investors,0.1
-SLEND,Solend,defi,36,Future strategic rounds,investors,0.05
-SLEND,Solend,defi,36,Team,team,0.25
-SLEND,Solend,defi,36,Treasury,treasury,0.25
-SLEND,Solend,defi,36,IDO,public sale,0.05
-SLEND,Solend,defi,36,Liquidity Mining,ecosystem incentives,0.3
-SCREAM,Scream,defi,48,Strategic,investors,0.0036
-SCREAM,Scream,defi,48,Seed,investors,0.02
-SCREAM,Scream,defi,48,IDO,public sale,0.0175
-SCREAM,Scream,defi,48,Rewards,ecosystem incentives,0.5
-SCREAM,Scream,defi,48,Team,team,0.1
-SCREAM,Scream,defi,48,Liquidity,ecosystem incentives,0.0125
-SCREAM,Scream,defi,48,Treasury,treasury,0.3464
-DYDX,dYdX,defi,0,User Trading Rewards,ecosystem incentives,0.25
-DYDX,dYdX,defi,0,Retroactive Rewards,airdrop,0.075
-DYDX,dYdX,defi,0,Liquidity Provider Rewards,ecosystem incentives,0.1
-DYDX,dYdX,defi,0,Community Treasury,treasury,0.05
-DYDX,dYdX,defi,0,Liquidity Staking Pool,ecosystem incentives,0.025
-DYDX,dYdX,defi,0,Investors,investors,0.2773
-DYDX,dYdX,defi,0,Employees & Consultants of dYdX Trading or Foundation,team,0.1527
-DYDX,dYdX,defi,0,Futures Employees & Consultants of dYdX Trading or Foundation,team,0.07
-BNT,BANCOR,defi,0,ICO,public sale,0.5
-BNT,BANCOR,defi,0,"Community Grants, Partnerships & Bounties",ecosystem incentives,0.2
-BNT,BANCOR,defi,0,Long-term Foundation Budget,treasury,0.2
-BNT,BANCOR,defi,0,"Founders, Team, Advisors & Early Contributors",team,0.1
-RUNE,THORChain,defi,0,Service Nodes,ecosystem incentives,0.5
-RUNE,THORChain,defi,0,Operational,treasury,0.13
-RUNE,THORChain,defi,0,Community,ecosystem incentives,0.12
-RUNE,THORChain,defi,0,Team/Advisors,team,0.1
-RUNE,THORChain,defi,0,Seed,investors,0.06
-RUNE,THORChain,defi,0,Pre-sale,investors,0.05
-RUNE,THORChain,defi,0,IDO,investors,0.04
-AMP,AMP,defi,0,Network Development Fund,treasury,0.1
-AMP,AMP,defi,0,Token Sales,investors,0.2
-AMP,AMP,defi,0,Founding Team and Employee Pool,team,0.2
-AMP,AMP,defi,0,Developer Grants,ecosystem incentives,0.25
-AMP,AMP,defi,0,Merchant Developer Funf,ecosystem incentives,0.25
-LRC,Loopring,defi,0,Investors,public sale,0.5
-LRC,Loopring,defi,0,Loopring Ecosystem Advancement Fund,ecosystem incentives,0.2
-LRC,Loopring,defi,0,Team,team,0.2
-LRC,Loopring,defi,0,"Contractors, Auditor, Exchanges",treasury,0.1
-ZX,0x,defi,0,ICO,public sale,0.5
-ZX,0x,defi,0,Early investors and advisors,investors,0.1
-ZX,0x,defi,0,Team,team,0.1
-ZX,0x,defi,0,Retained by 0x,treasury,0.15
-ZX,0x,defi,0,Developer Fund,ecosystem incentives,0.15
-CRV,Curve Finance,defi,0,pre-CRV liquidity providers,airdrop,0.05
-CRV,Curve Finance,defi,0,Team,team,0.15
-CRV,Curve Finance,defi,0,Investors,investors,0.15
-CRV,Curve Finance,defi,0,Employees,team,0.03
-CRV,Curve Finance,defi,0,Community Reserve,treasury,0.05
-CRV,Curve Finance,defi,99,pre-CRV liquidity providers,airdrop,0.05
-CRV,Curve Finance,defi,99,Liquidity providers,ecosystem incentives,0.57
-CRV,Curve Finance,defi,99,Team,team,0.15
-CRV,Curve Finance,defi,99,Investors,investors,0.15
-CRV,Curve Finance,defi,99,Employees,team,0.03
-CRV,Curve Finance,defi,99,Community Reserve,treasury,0.05
-QUICK,Squickswap,defi,0,Liquidity Mining,ecosystem incentives,0.9
-QUICK,Squickswap,defi,0,UNI Token Holders,airdrop,0.05
-QUICK,Squickswap,defi,0,Team & Advisors,team,0.0325
-QUICK,Squickswap,defi,0,Future Airdrop,airdrop,0.01
-QUICK,Squickswap,defi,0,Marketing,ecosystem incentives,0.0075
-SPELL,Abracadabra,defi,0,IDO,public sale,0.07
-SPELL,Abracadabra,defi,0,Team,team,0.3
-SPELL,Abracadabra,defi,0,Farming,ecosystem incentives,0.63
-ANC,Anchor Protocol,defi,0,Luna staking airdrop,airdrop,0.05
-ANC,Anchor Protocol,defi,0,Community Fund,treasury,0.1
-ANC,Anchor Protocol,defi,48,Luna staking airdrop,airdrop,0.05
-ANC,Anchor Protocol,defi,48,Community Fund,treasury,0.1
-ANC,Anchor Protocol,defi,48,Investors,investors,0.2
-ANC,Anchor Protocol,defi,48,Team,team,0.1
-ANC,Anchor Protocol,defi,48,Luna staking rewards,ecosystem incentives,0.1
-ANC,Anchor Protocol,defi,48,Borrower incentives,ecosystem incentives,0.4
-ANC,Anchor Protocol,defi,48,ANC LP,ecosystem incentives,0.05
-SRM,Serum,defi,0,Seed and Auction,investors,0.04
-SRM,Serum,defi,0,Team & Advisors,team,0.2
-SRM,Serum,defi,0,Ecosystem Incentive Fund,ecosystem incentives,0.27
-SRM,Serum,defi,0,Partner & Collaborator Fund,treasury,0.27
-SRM,Serum,defi,0,Project Contributors,ecosystem incentives,0.22
-POLS,Polkastarter,defi,0,Seed sale,investors,0.15
-POLS,Polkastarter,defi,0,Private sale,investors,0.275
-POLS,Polkastarter,defi,0,Liquidity Fund,ecosystem incentives,0.225
-POLS,Polkastarter,defi,0,Marketing Fund,ecosystem incentives,0.15
-POLS,Polkastarter,defi,0,Team & Advisors,team,0.1
-POLS,Polkastarter,defi,0,Foundational Reserve,treasury,0.1
-FARM,Harvest Finance,defi,0,Liquidity Providers,ecosystem incentives,0.7
-FARM,Harvest Finance,defi,0,Operational Treasury,treasury,0.1
-FARM,Harvest Finance,defi,0,Development Team,team,0.2
-MFT,Mainframe,defi,0,Private sale,investors,0.47
-MFT,Mainframe,defi,0,Airdrop,airdrop,0.0463
-MFT,Mainframe,defi,0,Team,team,0.25
-MFT,Mainframe,defi,0,Advisors,advisors,0.0127
-MFT,Mainframe,defi,0,Ecosystem Fund,ecosystem incentives,0.075
-MFT,Mainframe,defi,0,Ecosystem Reserve,treasury,0.146
-MIR,Mirror Protocol,defi,0,UNI airdrop,airdrop,0.0247
-MIR,Mirror Protocol,defi,0,LUNA airdrop,airdrop,0.0247
-MIR,Mirror Protocol,defi,0,Community Pool,treasury,0.098
-MIR,Mirror Protocol,defi,48,UNI airdrop,airdrop,0.049
-MIR,Mirror Protocol,defi,48,LUNA airdrop,airdrop,0.049
-MIR,Mirror Protocol,defi,48,Community Pool,treasury,0.346
-MIR,Mirror Protocol,defi,48,MIR LP Staking reward,ecosystem incentives,0.104
-MIR,Mirror Protocol,defi,48,mAsset LP staking reward,ecosystem incentives,0.451
-BADGER,Badger DAO,defi,0,Gitcoin,ecosystem incentives,0.02
-BADGER,Badger DAO,defi,0,Liquidity Mining,ecosystem incentives,0.23
-BADGER,Badger DAO,defi,0,Developer Mining,ecosystem incentives,0.15
-BADGER,Badger DAO,defi,0,Airdrop,airdrop,0.15
-BADGER,Badger DAO,defi,0,Team,team,0.1
-BADGER,Badger DAO,defi,0,DAO Treasury,treasury,0.35
-DODO,DODO,defi,24,Community incentives,ecosystem incentives,0.6
-DODO,DODO,defi,24,Operations/Marketing/Partnerships,ecosystem incentives,0.08
-DODO,DODO,defi,24,Initial Liquidity Provision (IDO),public sale,0.01
-DODO,DODO,defi,24,Core Team/Future Hires/Advisors,team,0.15
-DODO,DODO,defi,24,Investors,investors,0.16
-REN,Ren,defi,24,Main Sale,public sale,0.082
-REN,Ren,defi,24,Presale,investors,0.52
-REN,Ren,defi,24,"Team, Founders and Advisors",team,0.298
-REN,Ren,defi,24,Community Partners,ecosystem incentives,0.1
-UMA,Universal Market Access,defi,48,Initial Uniswap listing,public sale,0.02
-UMA,Universal Market Access,defi,48,Future Token Sales,treasury,0.145
-UMA,Universal Market Access,defi,48,Developers and Users,ecosystem incentives,0.35
-UMA,Universal Market Access,defi,48,Founders and early contributors,team,0.335
-UMA,Universal Market Access,defi,48,Investors,investors,0.15
-YFI,yearn.finance,defi,0,Liquidity Providers,ecosystem incentives,1.0
-AMPLE,Ampleforth,defi,46,Ecosystem,ecosystem incentives,0.232
-AMPLE,Ampleforth,defi,46,Seed Investors,investors,0.185
-AMPLE,Ampleforth,defi,46,Series A Investors,investors,0.033
-AMPLE,Ampleforth,defi,46,IEO,public sale,0.1
-AMPLE,Ampleforth,defi,46,Team & Advisors,team,0.25
-AMPLE,Ampleforth,defi,46,Treasury,treasury,0.2
-MANA,Decentraland,gaming,0,Foundation,treasury,0.2
-MANA,Decentraland,gaming,0,Team,team,0.2
-MANA,Decentraland,gaming,0,Community,ecosystem incentives,0.2
-MANA,Decentraland,gaming,0,Crowdsale,public sale,0.4
-AXS,Axie Infinity,gaming,0,Private Sale,investors,0.008
-AXS,Axie Infinity,gaming,0,Public Sale,public sale,0.11
-AXS,Axie Infinity,gaming,0,Gaming Issuance,ecosystem incentives,0.0175
-AXS,Axie Infinity,gaming,0,Advisors,advisors,0.0167
-AXS,Axie Infinity,gaming,0,Sky Mavis,team,0.04
-AXS,Axie Infinity,gaming,0,Ecosystem Fund,ecosystem incentives,0.03
-AXS,Axie Infinity,gaming,65,Private Sale,investors,0.04
-AXS,Axie Infinity,gaming,65,Public Sale,public sale,0.11
-AXS,Axie Infinity,gaming,65,Staking Reward,ecosystem incentives,0.29
-AXS,Axie Infinity,gaming,65,Gaming Issuance,ecosystem incentives,0.2
-AXS,Axie Infinity,gaming,65,Advisors,advisors,0.07
-AXS,Axie Infinity,gaming,65,Sky Mavis,team,0.21
-AXS,Axie Infinity,gaming,65,Ecosystem Fund,ecosystem incentives,0.08
-SAND,Sandbox,gaming,0,Binance Launchpad Sale,public sale,0.12
-SAND,Sandbox,gaming,0,Foundation,ecosystem incentives,0.0583
-SAND,Sandbox,gaming,0,Advisors,advisors,0.002
-SAND,Sandbox,gaming,0,Company Reserve,treasury,0.0547
-SAND,Sandbox,gaming,0,Binance Launchpad Sale,public sale,0.12
-SAND,Sandbox,gaming,0,Foundation,ecosystem incentives,0.0583
-SAND,Sandbox,gaming,0,Advisors,advisors,0.002
-SAND,Sandbox,gaming,0,Company Reserve,treasury,0.0547
-SAND,Sandbox,gaming,54,Binance Launchpad Sale,public sale,0.12
-SAND,Sandbox,gaming,54,Seed Sale,investors,0.1718
-SAND,Sandbox,gaming,54,Strategic Sale,investors,0.04
-SAND,Sandbox,gaming,54,Foundation,ecosystem incentives,0.12
-SAND,Sandbox,gaming,54,Team,team,0.19
-SAND,Sandbox,gaming,54,Advisors,advisors,0.1
-SAND,Sandbox,gaming,54,Company Reserve,treasury,0.2582
-SAND,Sandbox,gaming,54,Binance Launchpad Sale,public sale,0.12
-SAND,Sandbox,gaming,54,Seed Sale,investors,0.1718
-SAND,Sandbox,gaming,54,Strategic Sale,investors,0.04
-SAND,Sandbox,gaming,54,Foundation,ecosystem incentives,0.12
-SAND,Sandbox,gaming,54,Team,team,0.19
-SAND,Sandbox,gaming,54,Advisors,advisors,0.1
-SAND,Sandbox,gaming,54,Company Reserve,treasury,0.2582
-SPS,Splinterlands,gaming,65,Airdrop,airdrop,0.1333
-SPS,Splinterlands,gaming,65,Foundation/DAO,treasury,0.1
-SPS,Splinterlands,gaming,65,Private Sale,investors,0.0666
-SPS,Splinterlands,gaming,65,Team,team,0.09
-SPS,Splinterlands,gaming,65,Partners/Advisors,advisors,0.01
-SPS,Splinterlands,gaming,65,Play to Earn,ecosystem incentives,0.3
-SPS,Splinterlands,gaming,65,Staking/LP/Oracle Rewards,ecosystem incentives,0.3
-POLIS,Star Atlas,gaming,0,Public Token Sales,public sale,0.02
-POLIS,Star Atlas,gaming,0,Listings/Liquidity Pools,ecosystem incentives,0.04
-POLIS,Star Atlas,gaming,96,Private Token Sales,investors,0.225
-POLIS,Star Atlas,gaming,96,Public Pre-Sale,public sale,0.015
-POLIS,Star Atlas,gaming,96,Public Token Sales,public sale,0.02
-POLIS,Star Atlas,gaming,96,Listings/Liquidity Pools,ecosystem incentives,0.04
-POLIS,Star Atlas,gaming,96,Rewards/Emission,ecosystem incentives,0.4
-POLIS,Star Atlas,gaming,96,Team,team,0.3
-ATLAS,Star Atlas,gaming,0,Public Token Sales,public sale,0.02
-ATLAS,Star Atlas,gaming,0,Listings/Liquidity Pools,ecosystem incentives,0.04
-ATLAS,Star Atlas,gaming,96,Private Token Sales,investors,0.225
-ATLAS,Star Atlas,gaming,96,Public Pre-Sale,public sale,0.015
-ATLAS,Star Atlas,gaming,96,Public Token Sales,public sale,0.02
-ATLAS,Star Atlas,gaming,96,Listings/Liquidity Pools,ecosystem incentives,0.04
-ATLAS,Star Atlas,gaming,96,Rewards/Emission,ecosystem incentives,0.65
-ATLAS,Star Atlas,gaming,96,Team,team,0.05
-NGL,Gold Fever,gaming,36,Team,team,0.15
-NGL,Gold Fever,gaming,36,Partners & Advisors,advisors,0.05
-NGL,Gold Fever,gaming,36,Seed Round,public sale,0.06
-NGL,Gold Fever,gaming,36,Marketing & Acquisition,ecosystem incentives,0.0555
-NGL,Gold Fever,gaming,36,Angel Round,investors,0.038
-NGL,Gold Fever,gaming,36,VC Round,investors,0.1035
-NGL,Gold Fever,gaming,36,SHO,investors,0.0045
-NGL,Gold Fever,gaming,36,Mining,ecosystem incentives,0.4385
-NGL,Gold Fever,gaming,36,Staking & Liquidity,ecosystem incentives,0.1
-TITA,Titan Hunters,gaming,50,Seed Round,investors,0.045
-TITA,Titan Hunters,gaming,50,Private Round,investors,0.135
-TITA,Titan Hunters,gaming,50,Public Round,public sale,0.02
-TITA,Titan Hunters,gaming,50,Team & Advisors,team,0.2
-TITA,Titan Hunters,gaming,50,Foundation,ecosystem incentives,0.17
-TITA,Titan Hunters,gaming,50,Ecosystem,ecosystem incentives,0.25
-TITA,Titan Hunters,gaming,50,Marketing,ecosystem incentives,0.18
-HE,Heroes & Empires,gaming,34,Strategic Sale,investors,0.15
-HE,Heroes & Empires,gaming,34,Public Sale,public sale,0.016
-HE,Heroes & Empires,gaming,34,Team,team,0.15
-HE,Heroes & Empires,gaming,34,Advisors,advisors,0.04
-HE,Heroes & Empires,gaming,34,Marketing & Liquidity & Incentives,ecosystem incentives,0.15
-HE,Heroes & Empires,gaming,34,Ingame Reward,ecosystem incentives,0.3
-HE,Heroes & Empires,gaming,34,Ecosystem Funds,ecosystem incentives,0.194
-ILV,Illuvium,gaming,85,Pre Seed,investors,0.05
-ILV,Illuvium,gaming,85,Seed,investors,0.15
-ILV,Illuvium,gaming,85,Treasury,treasury,0.15
-ILV,Illuvium,gaming,85,Team,team,0.15
-ILV,Illuvium,gaming,85,Launchpad,public sale,0.1
-ILV,Illuvium,gaming,85,Yield Farming,ecosystem incentives,0.3
-ILV,Illuvium,gaming,85,In-Game Rewards,ecosystem incentives,0.1
-ISKY,Infinity Skies,defi,60,Public Sale,public sale,0.01
-ISKY,Infinity Skies,defi,60,Seed/Private Sale Allocation,investors,0.25
-ISKY,Infinity Skies,defi,60,Play To Earn,ecosystem incentives,0.24
-ISKY,Infinity Skies,defi,60,Team & Advisors,team,0.2
-ISKY,Infinity Skies,defi,60,Marketing,ecosystem incentives,0.15
-ISKY,Infinity Skies,defi,60,Company Reserve,treasury,0.1
-ISKY,Infinity Skies,defi,60,Liquidity Pool,ecosystem incentives,0.05
-CHZ,Chiliz,gaming,0,Seed investors,investors,0.075
-CHZ,Chiliz,gaming,0,Team,team,0.05
-CHZ,Chiliz,gaming,0,Advisory Board,advisors,0.03
-CHZ,Chiliz,gaming,0,Token sale & pre-sale,investors,0.345
-CHZ,Chiliz,gaming,0,Userbase reserve,ecosystem incentives,0.2
-CHZ,Chiliz,gaming,0,Marketing operations,ecosystem incentives,0.15
-CHZ,Chiliz,gaming,0,Strategic acquisitions,treasury,0.15
-GODS,Gods unchained,gaming,72,Play to Earn Rewards,ecosystem incentives,0.34
-GODS,Gods unchained,gaming,72,Gods Unchained Reserve,team,0.25
-GODS,Gods unchained,gaming,72,Community & Ecosystem Fund,ecosystem incentives,0.205
-GODS,Gods unchained,gaming,72,Community allocation,ecosystem incentives,0.07
-GODS,Gods unchained,gaming,72,Token Foundation,treasury,0.065
-GODS,Gods unchained,gaming,72,Token Sale,public sale,0.07
-GEM,Guild of Guardians,gaming,48,Player Rewards ,ecosystem incentives,0.35
-GEM,Guild of Guardians,gaming,48,Community Rewards ,ecosystem incentives,0.28
-GEM,Guild of Guardians,gaming,48,Developers,team,0.2
-GEM,Guild of Guardians,gaming,48,Guardians Guild Limited,team,0.06
-GEM,Guild of Guardians,gaming,48,Public Sale,public sale,0.06
-GEM,Guild of Guardians,gaming,48,Private Sale,investors,0.05
-PGX,Pegaxy,gaming,0,Community Developer Incentives,ecosystem incentives,0.16
-PGX,Pegaxy,gaming,0,Ecosystem Reserve and Marketing,ecosystem incentives,0.3
-PGX,Pegaxy,gaming,0,Team,team,0.22
-PGX,Pegaxy,gaming,0,Liquidity Provisions,treasury,0.1
-PGX,Pegaxy,gaming,0,Private Sale 1,investors,0.1
-PGX,Pegaxy,gaming,0,Private Sale 2,investors,0.1
-PGX,Pegaxy,gaming,0,IDO/IEO,public sale,0.02
-BCOIN,Bomb Crypto,gaming,0,Private Sale,investors,0.06
-BCOIN,Bomb Crypto,gaming,0,IDO,public sale,0.02
-BCOIN,Bomb Crypto,gaming,0,Listing Pancakeswap,public sale,0.01
-BCOIN,Bomb Crypto,gaming,0,Play to Earn,ecosystem incentives,0.2
-BCOIN,Bomb Crypto,gaming,0,Staking Reward,ecosystem incentives,0.2
-BCOIN,Bomb Crypto,gaming,0,Ecosystem Fund,ecosystem incentives,0.06
-BCOIN,Bomb Crypto,gaming,0,Team,team,0.25
-BCOIN,Bomb Crypto,gaming,0,Advisor,advisors,0.03
-BCOIN,Bomb Crypto,gaming,0,DEX Liquidity,treasury,0.05
-BCOIN,Bomb Crypto,gaming,0,Reserves,treasury,0.12
-MBOX,Mobox,gaming,0,Strategic Partners,investors,0.08
-MBOX,Mobox,gaming,0,Contributors,ecosystem incentives,0.21
-MBOX,Mobox,gaming,0,Team,team,0.2
-MBOX,Mobox,gaming,0,Community,ecosystem incentives,0.51
-TOWER,Crazy Defense Heroes,gaming,0,Play to Earn,ecosystem incentives,0.3
-TOWER,Crazy Defense Heroes,gaming,0,Marketing Fund Pool,ecosystem incentives,0.15
-TOWER,Crazy Defense Heroes,gaming,0,Liquidity Pool,treasury,0.15
-TOWER,Crazy Defense Heroes,gaming,0,Team and Advisors,team,0.15
-TOWER,Crazy Defense Heroes,gaming,0,Company Reserve Pool,treasury,0.15
-TOWER,Crazy Defense Heroes,gaming,0,Community Development,ecosystem incentives,0.1
-GMEE,GAMEE,gaming,0,Public pre-sale,public sale,0.0016
-GMEE,GAMEE,gaming,0,Private sale,investors,0.0286
-GMEE,GAMEE,gaming,0,Game Operations,ecosystem incentives,0.2528
-GMEE,GAMEE,gaming,0,Strategic Sales,investors,0.0585
-GMEE,GAMEE,gaming,0,Liquidity Pool,treasury,0.1179
-GMEE,GAMEE,gaming,0,Community Airdrop,airdrop,0.0094
-GMEE,GAMEE,gaming,0,Marketing & Rewards,ecosystem incentives,0.1255
-GMEE,GAMEE,gaming,0,Team & Advisors,team,0.2
-GMEE,GAMEE,gaming,0,Company Reserve,treasury,0.2057
-META,Metaverseminer,gaming,0,Mining,ecosystem incentives,0.7
-META,Metaverseminer,gaming,0,Private Round,investors,0.1
-META,Metaverseminer,gaming,0,Team,team,0.1
-META,Metaverseminer,gaming,0,Eco-fund,treasury,0.05
-META,Metaverseminer,gaming,0,Staking Rewards,ecosystem incentives,0.05
-ELFIN,Elfin Kingdom,gaming,0,Strategic Round,investors,0.05
-ELFIN,Elfin Kingdom,gaming,0,Private Round,investors,0.15
-ELFIN,Elfin Kingdom,gaming,0,Public Round,public sale,0.02
-ELFIN,Elfin Kingdom,gaming,0,Community Incentive,ecosystem incentives,0.1
-ELFIN,Elfin Kingdom,gaming,0,Team,team,0.1
-ELFIN,Elfin Kingdom,gaming,0,Advisor,advisors,0.05
-ELFIN,Elfin Kingdom,gaming,0,Farming Incentives,ecosystem incentives,0.4
-ELFIN,Elfin Kingdom,gaming,0,Marketing & Eco,ecosystem incentives,0.08
-ELFIN,Elfin Kingdom,gaming,0,Foundation,ecosystem incentives,0.05
-FARA,Faraland Crystal,gaming,0,Angel Round,investors,0.036
-FARA,Faraland Crystal,gaming,0,Founding community,investors,0.08
-FARA,Faraland Crystal,gaming,0,Seed Round,investors,0.02
-FARA,Faraland Crystal,gaming,0,Private Sale,investors,0.094
-FARA,Faraland Crystal,gaming,0,Public Sale,public sale,0.01
-FARA,Faraland Crystal,gaming,0,Advisor & Team,team,0.15
-FARA,Faraland Crystal,gaming,0,Game Incentives,ecosystem incentives,0.22
-FARA,Faraland Crystal,gaming,0,Marketing & Partnership,ecosystem incentives,0.05
-FARA,Faraland Crystal,gaming,0,Foundation,ecosystem incentives,0.2
-FARA,Faraland Crystal,gaming,0,Airdrop,airdrop,0.03
-FARA,Faraland Crystal,gaming,0,Liquid & listing,treasury,0.11
-DXCT,DNAxCAT,gaming,0,Private Sale,investors,0.05
-DXCT,DNAxCAT,gaming,0,NFT Minting,public sale,0.1
-DXCT,DNAxCAT,gaming,0,Play to Earn,ecosystem incentives,0.2
-DXCT,DNAxCAT,gaming,0,Partners,investors,0.1
-DXCT,DNAxCAT,gaming,0,Team,team,0.2
-DXCT,DNAxCAT,gaming,0,Marketing,ecosystem incentives,0.15
-DXCT,DNAxCAT,gaming,0,Ecosystem Fund,ecosystem incentives,0.2
-BYG,Black Eye Galaxy,gaming,0,Seed Sale,investors,0.02
-BYG,Black Eye Galaxy,gaming,0,Team,team,0.15
-BYG,Black Eye Galaxy,gaming,0,Public Sale,public sale,0.015
-BYG,Black Eye Galaxy,gaming,0,Marketing,ecosystem incentives,0.099
-BYG,Black Eye Galaxy,gaming,0,Advisors,advisors,0.039
-BYG,Black Eye Galaxy,gaming,0,Treasury,treasury,0.1
-BYG,Black Eye Galaxy,gaming,0,Liquidity,ecosystem incentives,0.15
-BYG,Black Eye Galaxy,gaming,0,Distributed as planet resources to be mined,ecosystem incentives,0.321
-BYG,Black Eye Galaxy,gaming,0,Staking to support liquidity,ecosystem incentives,0.1
-BYG,Black Eye Galaxy,gaming,0,PR,ecosystem incentives,0.005
-BYG,Black Eye Galaxy,gaming,0,Airdrop,airdrop,0.001
-AOT,Age of Tanks,gaming,0,Reserve,treasury,0.1
-AOT,Age of Tanks,gaming,0,Seed Fund,investors,0.02
-AOT,Age of Tanks,gaming,0,Strategic Fund,investors,0.06
-AOT,Age of Tanks,gaming,0,IDO,public sale,0.02
-AOT,Age of Tanks,gaming,0,Marketing,ecosystem incentives,0.05
-AOT,Age of Tanks,gaming,0,Public Sales,public sale,0.1
-AOT,Age of Tanks,gaming,0,Initial Liquidity,treasury,0.1
-AOT,Age of Tanks,gaming,0,Partners & Advisors,advisors,0.1
-AOT,Age of Tanks,gaming,0,Core Team,team,0.1
-AOT,Age of Tanks,gaming,0,Gameplay Incentives,ecosystem incentives,0.2
-AOT,Age of Tanks,gaming,0,Game Development,ecosystem incentives,0.15
-BNX,BinaryX,gaming,0,Genesis mining reward,ecosystem incentives,0.3333
-BNX,BinaryX,gaming,0,Initial BNX/BUSD trading pair liquidity,treasury,0.2667
-BNX,BinaryX,gaming,0,Marketing and LP Reward Reserve,ecosystem incentives,0.3
-BNX,BinaryX,gaming,0,Team,team,0.1
-BCMC,Blockchain Monster Hunt,gaming,0,Public Round,public sale,0.005
-BCMC,Blockchain Monster Hunt,gaming,0,Private Investor,investors,0.098
-BCMC,Blockchain Monster Hunt,gaming,0,Marketing & Partnership,ecosystem incentives,0.141
-BCMC,Blockchain Monster Hunt,gaming,0,Team & Advisors,team,0.18
-BCMC,Blockchain Monster Hunt,gaming,0,Eco-System,ecosystem incentives,0.176
-BCMC,Blockchain Monster Hunt,gaming,0,Mining,ecosystem incentives,0.4
-REVV,Revv Motorsport,gaming,0,F1® Delta Time - Game Operations,ecosystem incentives,0.085
-REVV,Revv Motorsport,gaming,0,F1® Delta Time - Staking,ecosystem incentives,0.0102
-REVV,Revv Motorsport,gaming,0,F1® Delta Time - Promotion & Marketing,ecosystem incentives,0.0068000000000000005
-REVV,Revv Motorsport,gaming,0,F1® Delta Time - Reserve,treasury,0.068
-REVV,Revv Motorsport,gaming,0,MotoGP - Ecosystem,ecosystem incentives,0.13
-REVV,Revv Motorsport,gaming,0,Reserve,treasury,0.4333
-REVV,Revv Motorsport,gaming,0,Team & Advisors,team,0.1
-REVV,Revv Motorsport,gaming,0,Initial DEX Offering,public sale,0.0833
-REVV,Revv Motorsport,gaming,0,Player Reward Reserve,ecosystem incentives,0.0833
-ADMC,Adamant Mine,gaming,0,Game & Rewards,ecosystem incentives,0.64
-ADMC,Adamant Mine,gaming,0,Airdrop & Beta,airdrop,0.02
-ADMC,Adamant Mine,gaming,0,Private Sale,investors,0.02
-ADMC,Adamant Mine,gaming,0,Devs & Marketing,team,0.1
-ADMC,Adamant Mine,gaming,0,P2PB2B,ecosystem incentives,0.04
-ADMC,Adamant Mine,gaming,0,"IDO, Liquidity, Listings",public sale,0.18
-ELS,Ethlas,gaming,0,ELS Treasury,treasury,0.14
-ELS,Ethlas,gaming,0,Private Sale,investors,0.19
-ELS,Ethlas,gaming,0,Seed Fundraise,investors,0.145
-ELS,Ethlas,gaming,0,Public Sale,public sale,0.075
-ELS,Ethlas,gaming,0,Ethlas Builders,team,0.215
-ELS,Ethlas,gaming,0,Ethlas Ecosystem Fund,ecosystem incentives,0.165
-ELS,Ethlas,gaming,0,Liquidity Pool & Staking rewards,ecosystem incentives,0.07
+name,project,sector,blockchain,category,capped,year,month,type,common_type,share
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Game & Rewards,ecosystem incentives,0.64
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Airdrop & Beta,airdrop,0.02
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Private Sale,investors,0.02
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Devs & Marketing,team,0.1
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,P2PB2B,ecosystem incentives,0.04
+ADMC,Adamant Mine,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,"IDO, Liquidity, Listings",public sale,0.18
+AMP,AMP,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2020,0,Network Development Fund,treasury,0.1
+AMP,AMP,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2020,0,Token Sales,investors,0.2
+AMP,AMP,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2020,0,Founding Team and Employee Pool,team,0.2
+AMP,AMP,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2020,0,Developer Grants,ecosystem incentives,0.25
+AMP,AMP,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2020,0,Merchant Developer Funf,ecosystem incentives,0.25
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,Ecosystem,ecosystem incentives,0.232
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,Seed Investors,investors,0.185
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,Series A Investors,investors,0.033
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,IEO,public sale,0.1
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,Team & Advisors,team,0.25
+AMPL,Ampleforth,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>]",[<Category.PAYMENT: 'Payment'>],False,2019,46,Treasury,treasury,0.2
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Luna staking airdrop,airdrop,0.05
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Community Fund,treasury,0.1
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Luna staking airdrop,airdrop,0.05
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Community Fund,treasury,0.1
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Investors,investors,0.2
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Team,team,0.1
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Luna staking rewards,ecosystem incentives,0.1
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Borrower incentives,ecosystem incentives,0.4
+ANC,Anchor Protocol,defi,[<Blockchain.TERRA: 'Terra'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,ANC LP,ecosystem incentives,0.05
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Reserve,treasury,0.1
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Seed Fund,investors,0.02
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Strategic Fund,investors,0.06
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,IDO,public sale,0.02
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Marketing,ecosystem incentives,0.05
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Public Sales,public sale,0.1
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Initial Liquidity,treasury,0.1
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Partners & Advisors,advisors,0.1
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Core Team,team,0.1
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Gameplay Incentives,ecosystem incentives,0.2
+AOT,Age of Tanks,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Game Development,ecosystem incentives,0.15
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,0,Public Token Sales,public sale,0.02
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,0,Listings/Liquidity Pools,ecosystem incentives,0.04
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Private Token Sales,investors,0.225
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Public Pre-Sale,public sale,0.015
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Public Token Sales,public sale,0.02
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Listings/Liquidity Pools,ecosystem incentives,0.04
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Rewards/Emission,ecosystem incentives,0.65
+ATLAS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.PAYMENT: 'Payment'>],False,2021,96,Team,team,0.05
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Private Sale,investors,0.008
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Public Sale,public sale,0.11
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Gaming Issuance,ecosystem incentives,0.0175
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Advisors,advisors,0.0167
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Sky Mavis,team,0.04
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Ecosystem Fund,ecosystem incentives,0.03
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Private Sale,investors,0.04
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Public Sale,public sale,0.11
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Staking Reward,ecosystem incentives,0.29
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Gaming Issuance,ecosystem incentives,0.2
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Advisors,advisors,0.07
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Sky Mavis,team,0.21
+AXS,Axie Infinity,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.RONIN: 'Ronin'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,65,Ecosystem Fund,ecosystem incentives,0.08
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Gitcoin,ecosystem incentives,0.02
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Liquidity Mining,ecosystem incentives,0.23
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Developer Mining,ecosystem incentives,0.15
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Airdrop,airdrop,0.15
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Team,team,0.1
+BADGER,Badger DAO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,DAO Treasury,treasury,0.35
+BAG,Bond Appetit,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,0,Pre-launch investors,investors,0.01
+BAG,Bond Appetit,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,0,Protocol usage & governance participation incentives,ecosystem incentives,0.65
+BAG,Bond Appetit,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,0,Team & team members,team,0.2
+BAG,Bond Appetit,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,0,Founders,team,0.14
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Seed Sale,investors,0.1
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Private Sale,investors,0.05
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Public Sale,public sale,0.1237
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Ecosystem,ecosystem incentives,0.2563
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Team,team,0.2
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Advisors,advisors,0.05
+BAND,Band Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>, <Category.ACCESS: 'Access'>]",True,2019,0,Foundation,treasury,0.22
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Public Round,public sale,0.005
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Private Investor,investors,0.098
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Marketing & Partnership,ecosystem incentives,0.141
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Team & Advisors,team,0.18
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Eco-System,ecosystem incentives,0.176
+BCMC,Blockchain Monster Hunt,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Mining,ecosystem incentives,0.4
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Private Sale,investors,0.06
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,IDO,public sale,0.02
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Listing Pancakeswap,public sale,0.01
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Play to Earn,ecosystem incentives,0.2
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Staking Reward,ecosystem incentives,0.2
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Ecosystem Fund,ecosystem incentives,0.06
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Team,team,0.25
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Advisor,advisors,0.03
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,DEX Liquidity,treasury,0.05
+BCOIN,Bomb Crypto,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Reserves,treasury,0.12
+BNT,BANCOR,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2017,0,ICO,public sale,0.5
+BNT,BANCOR,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2017,0,"Community Grants, Partnerships & Bounties",ecosystem incentives,0.2
+BNT,BANCOR,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2017,0,Long-term Foundation Budget,treasury,0.2
+BNT,BANCOR,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2017,0,"Founders, Team, Advisors & Early Contributors",team,0.1
+BNX,BinaryX,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Genesis mining reward,ecosystem incentives,0.3333
+BNX,BinaryX,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Initial BNX/BUSD trading pair liquidity,treasury,0.2667
+BNX,BinaryX,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Marketing and LP Reward Reserve,ecosystem incentives,0.3
+BNX,BinaryX,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Team,team,0.1
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Yield Farming,ecosystem incentives,0.08
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Uniswap LP Rewards,ecosystem incentives,0.2
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Staking Rewards,ecosystem incentives,0.048
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Var Pool Incentives,ecosystem incentives,0.175
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Community Reserve,ecosystem incentives,0.177
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Core Team,team,0.125
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,DAO Treasury,treasury,0.1
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Investors,investors,0.075
+BOND,Barnbridge,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2020,0,Advisors,advisors,0.02
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Seed Sale,investors,0.02
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Team,team,0.15
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Public Sale,public sale,0.015
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Marketing,ecosystem incentives,0.099
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Advisors,advisors,0.039
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Treasury,treasury,0.1
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Liquidity,ecosystem incentives,0.15
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Distributed as planet resources to be mined,ecosystem incentives,0.321
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Staking to support liquidity,ecosystem incentives,0.1
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,PR,ecosystem incentives,0.005
+BYG,Black Eye Galaxy,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2021,0,Airdrop,airdrop,0.001
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Strategic Partners,investors,0.2
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Advisors & Team,team,0.05
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Community Sales,public sale,0.05
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Liquidity & Staking Rewards,ecosystem incentives,0.5
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Early Contributors,investors,0.1
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Marketing & Promotion,ecosystem incentives,0.05
+BYN,Beyond Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.DIVIDEND: 'Dividend'>, <Category.GOV: 'Governance'>]",True,2021,0,Development Funds,ecosystem incentives,0.05
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Seed investors,investors,0.075
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Team,team,0.05
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Advisory Board,advisors,0.03
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Token sale & pre-sale,investors,0.345
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Userbase reserve,ecosystem incentives,0.2
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Marketing operations,ecosystem incentives,0.15
+CHZ,Chiliz,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2018,0,Strategic acquisitions,treasury,0.15
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Public Sale,public sale,0.06
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Team,team,0.1
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Community Incentives,ecosystem incentives,0.07
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Advisors,advisors,0.03
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Providing Liquidity,ecosystem incentives,0.1
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Seed,investors,0.05
+CLY,Colony,defi,[<Blockchain.AVAX: 'Avalanche'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Private Sale,investors,0.59
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,0,pre-CRV liquidity providers,airdrop,0.05
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,0,Team,team,0.15
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,0,Investors,investors,0.15
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,0,Employees,team,0.03
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,0,Community Reserve,treasury,0.05
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,pre-CRV liquidity providers,airdrop,0.05
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,Liquidity providers,ecosystem incentives,0.57
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,Team,team,0.15
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,Investors,investors,0.15
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,Employees,team,0.03
+CRV,Curve Finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.GOV: 'Governance'>],True,2020,99,Community Reserve,treasury,0.05
+DODO,DODO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2020,24,Community incentives,ecosystem incentives,0.6
+DODO,DODO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2020,24,Operations/Marketing/Partnerships,ecosystem incentives,0.08
+DODO,DODO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2020,24,Initial Liquidity Provision (IDO),public sale,0.01
+DODO,DODO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2020,24,Core Team/Future Hires/Advisors,team,0.15
+DODO,DODO,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2020,24,Investors,investors,0.16
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Private Sale,investors,0.05
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,NFT Minting,public sale,0.1
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Play to Earn,ecosystem incentives,0.2
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Partners,investors,0.1
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Team,team,0.2
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Marketing,ecosystem incentives,0.15
+DXCT,DNAxCAT,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.GOV: 'Governance'>],True,2021,0,Ecosystem Fund,ecosystem incentives,0.2
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,User Trading Rewards,ecosystem incentives,0.25
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Retroactive Rewards,airdrop,0.075
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Liquidity Provider Rewards,ecosystem incentives,0.1
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Community Treasury,treasury,0.05
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Liquidity Staking Pool,ecosystem incentives,0.025
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Investors,investors,0.2773
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Employees & Consultants of dYdX Trading or Foundation,team,0.1527
+DYDX,dYdX,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],False,2020,0,Futures Employees & Consultants of dYdX Trading or Foundation,team,0.07
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Strategic Round,investors,0.05
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Private Round,investors,0.15
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Public Round,public sale,0.02
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Community Incentive,ecosystem incentives,0.1
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Team,team,0.1
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Advisor,advisors,0.05
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Farming Incentives,ecosystem incentives,0.4
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Marketing & Eco,ecosystem incentives,0.08
+ELFIN,Elfin Kingdom,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>, <Category.DIVIDEND: 'Dividend'>]",False,2021,0,Foundation,ecosystem incentives,0.05
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,ELS Treasury,treasury,0.14
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Private Sale,investors,0.19
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Seed Fundraise,investors,0.145
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Public Sale,public sale,0.075
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Ethlas Builders,team,0.215
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Ethlas Ecosystem Fund,ecosystem incentives,0.165
+ELS,Ethlas,gaming,[<Blockchain.POLY: 'Polygon'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Liquidity Pool & Staking rewards,ecosystem incentives,0.07
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Public Sale/IDO,public sale,0.015
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Private Round,investors,0.125
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Strateigc Round,investors,0.1
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Seed Round,investors,0.05
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,TVL Rewards,ecosystem incentives,0.07
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Marketing,ecosystem incentives,0.05
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,R&D,ecosystem incentives,0.08
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Ecosystem Development,ecosystem incentives,0.08
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Liquidity Mining,ecosystem incentives,0.05
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Yield Farming,ecosystem incentives,0.15
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Advisors,advisors,0.03
+EQZ,Equalizer Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.ACCESS: 'Access'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Team,team,0.2
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Angel Round,investors,0.036
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Founding community,investors,0.08
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Seed Round,investors,0.02
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Private Sale,investors,0.094
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Public Sale,public sale,0.01
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Advisor & Team,team,0.15
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Game Incentives,ecosystem incentives,0.22
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Marketing & Partnership,ecosystem incentives,0.05
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Foundation,ecosystem incentives,0.2
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Airdrop,airdrop,0.03
+FARA,Faraland Crystal,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Liquid & listing,treasury,0.11
+FARM,Harvest Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Liquidity Providers,ecosystem incentives,0.7
+FARM,Harvest Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Operational Treasury,treasury,0.1
+FARM,Harvest Finance,defi,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Development Team,team,0.2
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Player Rewards ,ecosystem incentives,0.35
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Community Rewards ,ecosystem incentives,0.28
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Developers,team,0.2
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Guardians Guild Limited,team,0.06
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Public Sale,public sale,0.06
+GEM,Guild of Guardians,gaming,[<Blockchain.ETH: 'Ethereum'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,48,Private Sale,investors,0.05
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Public pre-sale,public sale,0.0016
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Private sale,investors,0.0286
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Game Operations,ecosystem incentives,0.2528
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Strategic Sales,investors,0.0585
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Liquidity Pool,treasury,0.1179
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Community Airdrop,airdrop,0.0094
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Marketing & Rewards,ecosystem incentives,0.1255
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Team & Advisors,team,0.2
+GMEE,GAMEE,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Company Reserve,treasury,0.2057
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Play to Earn Rewards,ecosystem incentives,0.34
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Gods Unchained Reserve,team,0.25
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Community & Ecosystem Fund,ecosystem incentives,0.205
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Community allocation,ecosystem incentives,0.07
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Token Foundation,treasury,0.065
+GODS,Gods unchained,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.X: 'Immutable X'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,72,Token Sale,public sale,0.07
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Strategic Sale,investors,0.15
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Public Sale,public sale,0.016
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Team,team,0.15
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Advisors,advisors,0.04
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Marketing & Liquidity & Incentives,ecosystem incentives,0.15
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Ingame Reward,ecosystem incentives,0.3
+HE,Heroes & Empires,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,34,Ecosystem Funds,ecosystem incentives,0.194
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,"security of network, maintenance",treasury,0.3
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,Team,team,0.225
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,Ecosystem growth,ecosystem incentives,0.21
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,Investors,investors,0.195
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,Advisors,advisors,0.05
+1INCH,1INCH,defi,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>]",[<Category.GOV: 'Governance'>],True,2020,48,Early LPs,airdrop,0.02
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Pre Seed,investors,0.05
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Seed,investors,0.15
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Treasury,treasury,0.15
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Team,team,0.15
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Launchpad,public sale,0.1
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,Yield Farming,ecosystem incentives,0.3
+ILV,Illuvium,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2021,85,In-Game Rewards,ecosystem incentives,0.1
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Public Sale,public sale,0.01
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Seed/Private Sale Allocation,investors,0.25
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Play To Earn,ecosystem incentives,0.24
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Team & Advisors,team,0.2
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Marketing,ecosystem incentives,0.15
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Company Reserve,treasury,0.1
+ISKY,Infinity Skies,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],True,2022,60,Liquidity Pool,ecosystem incentives,0.05
+LINK,Chainlink,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Public Token Sale,public sale,0.35
+LINK,Chainlink,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Team,team,0.3
+LINK,Chainlink,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.PAYMENT: 'Payment'>],True,2017,30,Public Token Sale,public sale,0.35
+LINK,Chainlink,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.PAYMENT: 'Payment'>],True,2017,30,Team,team,0.3
+LINK,Chainlink,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.PAYMENT: 'Payment'>],True,2017,30,Node Operators & Ecosystem,ecosystem incentives,0.35
+LRC,Loopring,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.ACCESS: 'Access'>],True,2017,0,Investors,public sale,0.5
+LRC,Loopring,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.ACCESS: 'Access'>],True,2017,0,Loopring Ecosystem Advancement Fund,ecosystem incentives,0.2
+LRC,Loopring,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.ACCESS: 'Access'>],True,2017,0,Team,team,0.2
+LRC,Loopring,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.ACCESS: 'Access'>],True,2017,0,"Contractors, Auditor, Exchanges",treasury,0.1
+MANA,Decentraland,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Foundation,treasury,0.2
+MANA,Decentraland,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Team,team,0.2
+MANA,Decentraland,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Community,ecosystem incentives,0.2
+MANA,Decentraland,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>]",[<Category.PAYMENT: 'Payment'>],True,2017,0,Crowdsale,public sale,0.4
+MBOX,Mobox,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Strategic Partners,investors,0.08
+MBOX,Mobox,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Contributors,ecosystem incentives,0.21
+MBOX,Mobox,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Team,team,0.2
+MBOX,Mobox,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Community,ecosystem incentives,0.51
+META,Metaverse Miner,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2021,0,Mining,ecosystem incentives,0.7
+META,Metaverse Miner,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2021,0,Private Round,investors,0.1
+META,Metaverse Miner,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2021,0,Team,team,0.1
+META,Metaverse Miner,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2021,0,Eco-fund,treasury,0.05
+META,Metaverse Miner,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.PAYMENT: 'Payment'>, <Category.GOV: 'Governance'>]",True,2021,0,Staking Rewards,ecosystem incentives,0.05
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Private sale,investors,0.47
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Airdrop,airdrop,0.0463
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Team,team,0.25
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Advisors,advisors,0.0127
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Ecosystem Fund,ecosystem incentives,0.075
+MFT,Mainframe,defi,[<Blockchain.ETH: 'Ethereum'>],[<Category.GOV: 'Governance'>],True,2018,0,Ecosystem Reserve,treasury,0.146
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,0,UNI airdrop,airdrop,0.0247
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,0,LUNA airdrop,airdrop,0.0247
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,0,Community Pool,treasury,0.098
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,48,UNI airdrop,airdrop,0.049
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,48,LUNA airdrop,airdrop,0.049
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,48,Community Pool,treasury,0.346
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,48,MIR LP Staking reward,ecosystem incentives,0.104
+MIR,Mirror Protocol,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.TERRA: 'Terra'>]",[<Category.GOV: 'Governance'>],True,2020,48,mAsset LP staking reward,ecosystem incentives,0.451
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Team,team,0.15
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Partners & Advisors,advisors,0.05
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Seed Round,public sale,0.06
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Marketing & Acquisition,ecosystem incentives,0.0555
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Angel Round,investors,0.038
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,VC Round,investors,0.1035
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,SHO,investors,0.0045
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Mining,ecosystem incentives,0.4385
+NGL,Gold Fever,gaming,[<Blockchain.ETH: 'Ethereum'>],[<Category.PAYMENT: 'Payment'>],False,2021,36,Staking & Liquidity,ecosystem incentives,0.1
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Community Developer Incentives,ecosystem incentives,0.16
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Ecosystem Reserve and Marketing,ecosystem incentives,0.3
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Team,team,0.22
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Liquidity Provisions,treasury,0.1
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Private Sale 1,investors,0.1
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,Private Sale 2,investors,0.1
+PGX,Pegaxy,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]",[<Category.GOV: 'Governance'>],True,2021,0,IDO/IEO,public sale,0.02
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,0,Public Token Sales,public sale,0.02
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,0,Listings/Liquidity Pools,ecosystem incentives,0.04
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Private Token Sales,investors,0.225
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Public Pre-Sale,public sale,0.015
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Public Token Sales,public sale,0.02
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Listings/Liquidity Pools,ecosystem incentives,0.04
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Rewards/Emission,ecosystem incentives,0.4
+POLIS,Star Atlas,gaming,[<Blockchain.SOL: 'Solana'>],[<Category.GOV: 'Governance'>],True,2021,96,Team,team,0.3
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Seed sale,investors,0.15
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Private sale,investors,0.275
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Liquidity Fund,ecosystem incentives,0.225
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Marketing Fund,ecosystem incentives,0.15
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Team & Advisors,team,0.1
+POLS,Polkastarter,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.GOV: 'Governance'>],True,2020,0,Foundational Reserve,treasury,0.1
+QUICK,Quickswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Liquidity Mining,ecosystem incentives,0.9
+QUICK,Quickswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,UNI Token Holders,airdrop,0.05
+QUICK,Quickswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Team & Advisors,team,0.0325
+QUICK,Quickswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Future Airdrop,airdrop,0.01
+QUICK,Quickswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,0,Marketing,ecosystem incentives,0.0075
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Mining Reserve,ecosystem incentives,0.34
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Partnership & Ecosystem,ecosystem incentives,0.3
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Team,team,0.2
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Liquidity for AMM at Launch,ecosystem incentives,0.08
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Community & Seed funding,public sale,0.06
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Advisors,advisors,0.02
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Mining Reserve,ecosystem incentives,0.34
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Partnership & Ecosystem,ecosystem incentives,0.3
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Team,team,0.2
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Liquidity for AMM at Launch,ecosystem incentives,0.08
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Community & Seed funding,public sale,0.06
+RAY,Raydium,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Advisors,advisors,0.02
+REN,Ren,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.SORA: 'Sora'>]",[<Category.OTHER: 'Other'>],True,2017,24,Main Sale,public sale,0.082
+REN,Ren,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.SORA: 'Sora'>]",[<Category.OTHER: 'Other'>],True,2017,24,Presale,investors,0.52
+REN,Ren,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.SORA: 'Sora'>]",[<Category.OTHER: 'Other'>],True,2017,24,"Team, Founders and Advisors",team,0.298
+REN,Ren,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.SORA: 'Sora'>]",[<Category.OTHER: 'Other'>],True,2017,24,Community Partners,ecosystem incentives,0.1
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,F1® Delta Time - Game Operations,ecosystem incentives,0.085
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,F1® Delta Time - Staking,ecosystem incentives,0.0102
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,F1® Delta Time - Promotion & Marketing,ecosystem incentives,0.0068000000000000005
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,F1® Delta Time - Reserve,treasury,0.068
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,MotoGP - Ecosystem,ecosystem incentives,0.13
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,Reserve,treasury,0.4333
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,Team & Advisors,team,0.1
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,Initial DEX Offering,public sale,0.0833
+REVV,Revv Motorsport,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.BSC: 'Binance Smart Chain'>]",[<Category.PAYMENT: 'Payment'>],True,2020,0,Player Reward Reserve,ecosystem incentives,0.0833
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Service Nodes,ecosystem incentives,0.5
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Operational,treasury,0.13
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Community,ecosystem incentives,0.12
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Team/Advisors,team,0.1
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Seed,investors,0.06
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,Pre-sale,investors,0.05
+RUNE,THORChain,defi,[<Blockchain.BSC: 'Binance Smart Chain'>],[<Category.PAYMENT: 'Payment'>],True,2019,0,IDO,investors,0.04
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Binance Launchpad Sale,public sale,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Foundation,ecosystem incentives,0.0583
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Advisors,advisors,0.002
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Company Reserve,treasury,0.0547
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Binance Launchpad Sale,public sale,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Foundation,ecosystem incentives,0.0583
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Advisors,advisors,0.002
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,0,Company Reserve,treasury,0.0547
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Binance Launchpad Sale,public sale,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Seed Sale,investors,0.1718
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Strategic Sale,investors,0.04
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Foundation,ecosystem incentives,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Team,team,0.19
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Advisors,advisors,0.1
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Company Reserve,treasury,0.2582
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Binance Launchpad Sale,public sale,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Seed Sale,investors,0.1718
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Strategic Sale,investors,0.04
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Foundation,ecosystem incentives,0.12
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Team,team,0.19
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Advisors,advisors,0.1
+SAND,Sandbox,gaming,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2020,54,Company Reserve,treasury,0.2582
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Strategic,investors,0.0036
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Seed,investors,0.02
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,IDO,public sale,0.0175
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Rewards,ecosystem incentives,0.5
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Team,team,0.1
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Liquidity,ecosystem incentives,0.0125
+SCREAM,Scream,defi,[<Blockchain.FTM: 'Fantom'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,48,Treasury,treasury,0.3464
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Seed,investors,0.1
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Future strategic rounds,investors,0.05
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Team,team,0.25
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Treasury,treasury,0.25
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,IDO,public sale,0.05
+SLEND,Solend,defi,[<Blockchain.SOL: 'Solana'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,36,Liquidity Mining,ecosystem incentives,0.3
+SPELL,Abracadabra,defi,"[<Blockchain.FTM: 'Fantom'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ETH: 'Ethereum'>]",[<Category.GOV: 'Governance'>],True,2021,0,IDO,public sale,0.07
+SPELL,Abracadabra,defi,"[<Blockchain.FTM: 'Fantom'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ETH: 'Ethereum'>]",[<Category.GOV: 'Governance'>],True,2021,0,Team,team,0.3
+SPELL,Abracadabra,defi,"[<Blockchain.FTM: 'Fantom'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ETH: 'Ethereum'>]",[<Category.GOV: 'Governance'>],True,2021,0,Farming,ecosystem incentives,0.63
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Airdrop,airdrop,0.1333
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Foundation/DAO,treasury,0.1
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Private Sale,investors,0.0666
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Team,team,0.09
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Partners/Advisors,advisors,0.01
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Play to Earn,ecosystem incentives,0.3
+SPS,Splinterlands,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2021,65,Staking/LP/Oracle Rewards,ecosystem incentives,0.3
+SRM,Serum,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.TOMO: 'Tomochain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Seed and Auction,investors,0.04
+SRM,Serum,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.TOMO: 'Tomochain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Team & Advisors,team,0.2
+SRM,Serum,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.TOMO: 'Tomochain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Ecosystem Incentive Fund,ecosystem incentives,0.27
+SRM,Serum,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.TOMO: 'Tomochain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Partner & Collaborator Fund,treasury,0.27
+SRM,Serum,defi,"[<Blockchain.SOL: 'Solana'>, <Blockchain.TOMO: 'Tomochain'>, <Blockchain.ETH: 'Ethereum'>]","[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>]",True,2020,0,Project Contributors,ecosystem incentives,0.22
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Seed Round,investors,0.045
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Private Round,investors,0.135
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Public Round,public sale,0.02
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Team & Advisors,team,0.2
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Foundation,ecosystem incentives,0.17
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Ecosystem,ecosystem incentives,0.25
+TITA,Titan Hunters,gaming,[<Blockchain.BSC: 'Binance Smart Chain'>],"[<Category.GOV: 'Governance'>, <Category.DIVIDEND: 'Dividend'>, <Category.PAYMENT: 'Payment'>]",True,2021,50,Marketing,ecosystem incentives,0.18
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Play to Earn,ecosystem incentives,0.3
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Marketing Fund Pool,ecosystem incentives,0.15
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Liquidity Pool,treasury,0.15
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Team and Advisors,team,0.15
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Company Reserve Pool,treasury,0.15
+TOWER,Crazy Defense Heroes,gaming,"[<Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.POLY: 'Polygon'>]","[<Category.GOV: 'Governance'>, <Category.PAYMENT: 'Payment'>]",True,2021,0,Community Development,ecosystem incentives,0.1
+UMA,Universal Market Access,defi,"[<Blockchain.SORA: 'Sora'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2018,48,Initial Uniswap listing,public sale,0.02
+UMA,Universal Market Access,defi,"[<Blockchain.SORA: 'Sora'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2018,48,Future Token Sales,treasury,0.145
+UMA,Universal Market Access,defi,"[<Blockchain.SORA: 'Sora'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2018,48,Developers and Users,ecosystem incentives,0.35
+UMA,Universal Market Access,defi,"[<Blockchain.SORA: 'Sora'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2018,48,Founders and early contributors,team,0.335
+UMA,Universal Market Access,defi,"[<Blockchain.SORA: 'Sora'>, <Blockchain.ETH: 'Ethereum'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2018,48,Investors,investors,0.15
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Airdrop,airdrop,0.15
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Liquidity Mining,ecosystem incentives,0.02
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Airdrop,airdrop,0.15
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Liquidity Mining,ecosystem incentives,0.02
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Airdrop,airdrop,0.15
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Liquidity Mining,ecosystem incentives,0.02
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Governance Treasury,treasury,0.43
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Team,team,0.2151
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Investors,investors,0.178
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Advisors,advisors,0.0069
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Airdrop,airdrop,0.15
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Liquidity Mining,ecosystem incentives,0.02
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Governance Treasury,treasury,0.43
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Team,team,0.2151
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Investors,investors,0.178
+UNI,Uniswap,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.BSC: 'Binance Smart Chain'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,48,Advisors,advisors,0.0069
+YFI,yearn.finance,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.FTM: 'Fantom'>, <Blockchain.AVAX: 'Avalanche'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.POLY: 'Polygon'>, <Blockchain.SORA: 'Sora'>, <Blockchain.GC: 'Gnosis'>]",[<Category.GOV: 'Governance'>],True,2020,0,Liquidity Providers,ecosystem incentives,1.0
+ZRX,0x,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2017,0,ICO,public sale,0.5
+ZRX,0x,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2017,0,Early investors and advisors,investors,0.1
+ZRX,0x,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2017,0,Team,team,0.1
+ZRX,0x,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2017,0,Retained by 0x,treasury,0.15
+ZRX,0x,defi,"[<Blockchain.ETH: 'Ethereum'>, <Blockchain.ONE: 'Harmony'>, <Blockchain.AVAX: 'Avalanche'>]",[<Category.GOV: 'Governance'>],True,2017,0,Developer Fund,ecosystem incentives,0.15

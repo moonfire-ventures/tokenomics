@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 gem = Token(
     name="GEM",
     project="Guild of Guardians",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.ETH],
+    category=[Category.GOV, Category.DIVIDEND, Category.PAYMENT],
+    capped=True,
     allocations=[
         Allocation(
             month=48,

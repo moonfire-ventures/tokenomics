@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 dydx = Token(
     name="DYDX",
     project="dYdX",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH],
+    category=[Category.GOV],
+    capped=False,
     allocations=[
         Allocation(
             month=0,

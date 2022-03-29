@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 scream = Token(
     name="SCREAM",
     project="Scream",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.FTM],
+    category=[Category.GOV, Category.DIVIDEND],
+    capped=True,
     allocations=[
         Allocation(
             month=48,

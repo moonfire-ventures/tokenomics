@@ -1,9 +1,20 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 yfi = Token(
     name="YFI",
     project="yearn.finance",
     sector=Sector.DEFI,
+    blockchain=[
+        Blockchain.ETH,
+        Blockchain.FTM,
+        Blockchain.AVAX,
+        Blockchain.ONE,
+        Blockchain.POLY,
+        Blockchain.SORA,
+        Blockchain.GC,
+    ],
+    category=[Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,

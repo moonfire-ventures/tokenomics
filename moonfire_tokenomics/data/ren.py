@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 ren = Token(
     name="REN",
     project="Ren",
     sector=Sector.DEFI,
+    blockchain=[Blockchain.ETH, Blockchain.ONE, Blockchain.SORA],
+    category=[Category.OTHER],
+    capped=True,
     allocations=[
         Allocation(
             month=24,

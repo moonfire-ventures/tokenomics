@@ -1,9 +1,12 @@
-from moonfire_tokenomics.data_types import Allocation, AllocationRecord, CommonType, Sector, Token
+from moonfire_tokenomics.data_types import Allocation, AllocationRecord, Blockchain, Category, CommonType, Sector, Token
 
 meta = Token(
     name="META",
     project="Metaverse Miner",
     sector=Sector.GAMING,
+    blockchain=[Blockchain.BSC],
+    category=[Category.PAYMENT, Category.GOV],
+    capped=True,
     allocations=[
         Allocation(
             month=0,
