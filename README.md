@@ -2,7 +2,7 @@
 
 This repository contains the code for cryptoeconomics research into the distribution of tokenomics models across several ecosystems that leverage utility and governance tokens for various objectives.
 
-# Data Contribution guidelines
+# Data Contribution Guidelines
 
 There are currently 2 ways to contribute. You can
 1. take matters in your own hands and create a PR (see below); or 
@@ -65,7 +65,7 @@ To run the tests, run the following command:
 pytest tests
 ```
 
-## Style checks
+## Style Checks
 
 There are 2 ways to ensure your code passes our automatic style checks.
 
