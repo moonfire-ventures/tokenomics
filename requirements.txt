@@ -1,3 +1,4 @@
+black==22.3.0
 dataclasses==0.6
 dataclasses-json==0.5.6
 flake8==4.0.1
