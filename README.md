@@ -4,7 +4,7 @@ This repository contains the code for cryptoeconomics research into the distribu
 
 The latest version of the tokenomics dataset is always commited to this repository in csv format and can be downloaded [here](https://raw.githubusercontent.com/moonfire-ventures/tokenomics/master/token_allocations.csv).
 
-There is also a UI to explore this data - check out the [Moonfire Tokeonomics Explorer](https://tokenomics.moonfire.com/)
+There is also a UI to explore this data - check out the [Moonfire Tokenomics Explorer](https://tokenomics.moonfire.com/)
 
 # Data Contribution Guidelines
 
