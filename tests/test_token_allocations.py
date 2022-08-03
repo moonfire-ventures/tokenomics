@@ -7,7 +7,9 @@ from moonfire_tokenomics.tokens import Tokens
 
 def test_token_allocations():
     data = [token[1] for token in Tokens.choices()]
-    _ = tokens_to_df(data)
+    df = tokens_to_df(data)
+    df = df.groupby(["name", "month"])[["share"]].sum()
+    assert df["share"].between(0, 1).all()
 
 
 def test_valid_sector():

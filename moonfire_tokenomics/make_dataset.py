@@ -9,8 +9,8 @@ from moonfire_tokenomics.tokens import Tokens
 
 
 def tokens_to_df(tokens: List[Token]) -> pd.DataFrame:
-    df = pd.DataFrame(tokens).explode("allocations").explode("sources")
-    df = pd.concat([df.drop(["allocations", "sources"], axis=1), df["allocations"].apply(pd.Series)], axis=1)
+    df = pd.DataFrame(tokens).explode("allocations")
+    df = pd.concat([df.drop(["allocations"], axis=1), df["allocations"].apply(pd.Series)], axis=1)
     df = df.explode("records")
     df = pd.concat([df.drop(["records"], axis=1), df["records"].apply(pd.Series)], axis=1)
     return df
